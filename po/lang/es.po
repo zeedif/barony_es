@@ -3099,7 +3099,7 @@ msgstr "¡Ni se ha inmutado!"
 #, c-format
 msgctxt "lang/en.txt:692"
 msgid "You killed the %s!"
-msgstr "¡Has matado a %s!"
+msgstr "¡%s ha muerto!"
 
 #, c-format
 msgctxt "lang/en.txt:693"
@@ -3124,7 +3124,7 @@ msgstr "¡Él ni se inmuta!"
 #, c-format
 msgctxt "lang/en.txt:697"
 msgid "You killed %s!"
-msgstr "¡Has matado a %s!"
+msgstr "¡%s ha muerto!"
 
 #, c-format
 msgctxt "lang/en.txt:698"

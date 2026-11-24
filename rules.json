@@ -265,8 +265,6 @@
       "/skills/*/shortname"
     ],
     "data/skillsheet_leadership_entries.json": [
-      "/leadership_allies_base/*/*",
-      "/leadership_allies_legendary/*/*",
       "/leadership_allies_unique_recruits/goatman/*/*",
       "/leadership_allies_unique_recruits/succubus/*/human"
     ],
@@ -336,6 +334,17 @@
     "data/scripts/*/script.json": [
       "/script_entries/*/attributes/word_highlights",
       "/script_entries/*/attributes/word_highlights2"
+    ]
+  },
+  "labels": {
+    "lang/compendium_lang/contents_*.json": [
+      "/contents/*",
+      "/contents_alphabetical/*"
+    ]
+  },
+  "order": {
+    "lang/compendium_lang/contents_*.json": [
+      "/contents_alphabetical"
     ]
   },
   "restore": [

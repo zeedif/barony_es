@@ -24277,451 +24277,6 @@ msgid ""
 msgstr ""
 
 #. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/vampire/0"
-msgid "vampire"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/vampire/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/skeleton/0"
-msgid "ghoul"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/skeleton/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/human/0"
-msgid "human"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/human/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/succubus/0"
-msgid "succubus"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/succubus/1"
-msgid "incubus"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/succubus/2"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/goatman/0"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/goatman/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/automaton/0"
-msgid "human"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/automaton/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/incubus/0"
-msgid "succubus"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/incubus/1"
-msgid "incubus"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/incubus/2"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/goblin/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/goblin/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/insectoid/0"
-msgid "scorpion"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/insectoid/1"
-msgid "scarab"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/insectoid/2"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/insectoid/3"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/rat/0"
-msgid "rat"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/rat/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/troll/0"
-msgid "troll"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/troll/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/spider/0"
-msgid "spider"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/spider/1"
-msgid "scorpion"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/spider/2"
-msgid "scarab"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/spider/3"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/imp/0"
-msgid "imp"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/imp/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/gremlin/0"
-msgid "gremlin"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/myconid/0"
-msgid "myconid"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/dryad/0"
-msgid "dryad"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/salamander/0"
-msgid "salamander"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/salamander/1"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_base/gnome/0"
-msgid "automaton"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/vampire/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/vampire/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/vampire/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/skeleton/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/skeleton/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/skeleton/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/human/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/human/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/human/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/succubus/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/succubus/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/succubus/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/goatman/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/goatman/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/automaton/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/automaton/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/automaton/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/incubus/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/incubus/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/incubus/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/goblin/0"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/goblin/1"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/insectoid/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/insectoid/1"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/rat/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/rat/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/rat/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/troll/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/troll/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/troll/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/spider/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/spider/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/spider/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/imp/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/imp/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/imp/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/gnome/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/gnome/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/gnome/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/dryad/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/dryad/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/dryad/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/myconid/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/myconid/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/myconid/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/salamander/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/salamander/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/salamander/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/gremlin/0"
-msgid "goblin"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/gremlin/1"
-msgid "insectoid"
-msgstr ""
-
-#. Versiones: 5.0.2
-msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_legendary/gremlin/2"
-msgid "goatman"
-msgstr ""
-
-#. Versiones: 4.3.2, 5.0.2
 msgctxt "data/skillsheet_leadership_entries.json:/leadership_allies_unique_recruits/succubus/0/human"
 msgid "   (Drunk)"
 msgstr ""
@@ -40287,6 +39842,3062 @@ msgstr ""
 
 msgctxt "lang/book_names.json:/book_names/Worker's Journal, Entry 4"
 msgid "Worker's Journal, Entry 4"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents/-"
+msgid "    CATEGORIES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents/adventure"
+msgid "ADVENTURE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents/experience"
+msgid "EXPERIENCE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents/joker"
+msgid "JOKER'S CHOICE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents/teamwork"
+msgid "TEAMWORK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents/technique"
+msgid "TECHNIQUE"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents_alphabetical"
+msgid "[\"-\", \"adventure\", \"experience\", \"joker\", \"teamwork\", \"technique\"]"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents_alphabetical/-"
+msgid "    CATEGORIES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents_alphabetical/adventure"
+msgid "ADVENTURE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents_alphabetical/experience"
+msgid "EXPERIENCE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents_alphabetical/joker"
+msgid "JOKER'S CHOICE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents_alphabetical/teamwork"
+msgid "TEAMWORK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_achievements.json:/contents_alphabetical/technique"
+msgid "TECHNIQUE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/-"
+msgid "    CHARACTER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/class"
+msgid "CLASS OVERVIEW"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/classes list"
+msgid "CLASSES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/races"
+msgid "RACE & ALIGNMENT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/xp"
+msgid "EXPERIENCE POINTS (XP)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/leveling up"
+msgid "LEVELING UP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/stats metastats"
+msgid "STATS & METASTATS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/skills"
+msgid "SKILLS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/gold"
+msgid "GOLD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/-"
+msgid "    ACTIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/melee"
+msgid "MELEE ATTACKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/crits"
+msgid "CRITICAL STRIKES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/flanking"
+msgid "FLANKING STRIKES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/backstabs"
+msgid "BACKSTABBING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/sneaking"
+msgid "SNEAKING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/legendary strikes"
+msgid "LEGENDARY STRIKES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/blocking"
+msgid "BLOCKING"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/offhand casting"
+msgid "OFF-HAND CASTING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/strafing"
+msgid "STRAFE & BACKPEDAL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/memorized"
+msgid "MEMORIZED CASTING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/spellbook casting"
+msgid "SPELLBOOK CASTING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/missiles"
+msgid "MISSILE ATTACKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/thrown"
+msgid "THROWN ATTACKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/equipment degradation"
+msgid "ITEM DEGRADATION"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/wanted"
+msgid "WANTED STATUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/-"
+msgid "    STATS & METASTATS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/str"
+msgid "STRENGTH (STR)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/dex"
+msgid "DEXTERITY (DEX)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/con"
+msgid "CONSTITUTION (CON)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/int"
+msgid "INTELLIGENCE (INT)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/per"
+msgid "PERCEPTION (PER)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/chr"
+msgid "CHARISMA (CHR)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/ac"
+msgid "ARMOR CLASS (AC)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/hp"
+msgid "HEALTH POINTS (HP)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/mp"
+msgid "MAGIC POINTS (MP)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/res"
+msgid "MAGIC RESIST (RES)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/pwr"
+msgid "MAGIC POWER (PWR)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/rgn"
+msgid "REGENERATION (RGN)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/wgt"
+msgid "WEIGHT (WGT)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/-"
+msgid "    SKILLS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/sword skill"
+msgid "SWORD SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/axe skill"
+msgid "AXE SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/polearm skill"
+msgid "POLEARM SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/mace skill"
+msgid "MACE SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/unarmed skill"
+msgid "UNARMED SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/stealth skill"
+msgid "STEALTH SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/blocking skill"
+msgid "BLOCKING SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/ranged skill"
+msgid "RANGED SKILL"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/sorcery skill"
+msgid "SORCERY SKILL"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/mysticism skill"
+msgid "MYSTICISM SKILL"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/thaumaturgy skill"
+msgid "THAUMATURGY SKILL"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/lore skill"
+msgid "LORE SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/leadership skill"
+msgid "LEADERSHIP SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/trading skill"
+msgid "TRADING SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/alchemy skill"
+msgid "ALCHEMY SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/tinkering skill"
+msgid "TINKERING SKILL"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical"
+msgid "[\"alchemy skill\", \"ac\", \"axe skill\", \"backstabs\", \"blocking skill\", \"blocking\", \"memorized\", \"chr\", \"class\", \"classes list\", \"con\", \"crits\", \"dex\", \"xp\", \"flanking\", \"gold\", \"hp\", \"int\", \"equipment degradation\", \"leadership skill\", \"legendary strikes\", \"leveling up\", \"lore skill\", \"mace skill\", \"mp\", \"pwr\", \"res\", \"melee\", \"missiles\", \"mysticism skill\", \"offhand casting\", \"per\", \"polearm skill\", \"races\", \"ranged skill\", \"rgn\", \"skills\", \"sneaking\", \"sorcery skill\", \"spellbook casting\", \"stats metastats\", \"stealth skill\", \"strafing\", \"str\", \"sword skill\", \"thaumaturgy skill\", \"thrown\", \"tinkering skill\", \"trading skill\", \"unarmed skill\", \"wanted\", \"wgt\"]"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/alchemy skill"
+msgid "ALCHEMY SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/ac"
+msgid "ARMOR CLASS (AC)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/axe skill"
+msgid "AXE SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/backstabs"
+msgid "BACKSTABBING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/blocking skill"
+msgid "BLOCKING SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/blocking"
+msgid "BLOCKING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/memorized"
+msgid "CASTING MEMORIZED SPELLS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/chr"
+msgid "CHARISMA (CHR)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/class"
+msgid "CLASS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/classes list"
+msgid "CLASSES LIST"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/con"
+msgid "CONSTITUTION (CON)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/crits"
+msgid "CRITICAL STRIKES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/dex"
+msgid "DEXTERITY (DEX)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/xp"
+msgid "EXPERIENCE POINTS (XP)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/flanking"
+msgid "FLANKING STRIKES"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/gold"
+msgid "GOLD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/hp"
+msgid "HEALTH POINTS (HP)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/int"
+msgid "INTELLIGENCE (INT)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/equipment degradation"
+msgid "ITEM DURABILITY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/leadership skill"
+msgid "LEADERSHIP SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/legendary strikes"
+msgid "LEGENDARY STRIKES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/leveling up"
+msgid "LEVELING UP"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/lore skill"
+msgid "LORE SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/mace skill"
+msgid "MACE SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/mp"
+msgid "MAGIC POINTS (MP)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/pwr"
+msgid "MAGIC POWER (PWR)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/res"
+msgid "MAGIC RESIST (RES)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/melee"
+msgid "MELEE ATTACKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/missiles"
+msgid "MISSILE ATTACKS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/mysticism skill"
+msgid "MYSTICISM SKILL"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/offhand casting"
+msgid "OFF-HAND CASTING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/per"
+msgid "PERCEPTION (PER)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/polearm skill"
+msgid "POLEARM SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/races"
+msgid "RACE & ALIGNMENT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/ranged skill"
+msgid "RANGED SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/rgn"
+msgid "REGENERATION (RGN)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/skills"
+msgid "SKILLS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/sneaking"
+msgid "SNEAKING"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/sorcery skill"
+msgid "SORCERY SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/spellbook casting"
+msgid "SPELLBOOK CASTING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/stats metastats"
+msgid "STATS & METASTATS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/stealth skill"
+msgid "STEALTH SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/strafing"
+msgid "STRAFE & BACKPEDAL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/str"
+msgid "STRENGTH (STR)"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/sword skill"
+msgid "SWORD SKILL"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/thaumaturgy skill"
+msgid "THAUMATURGY SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/thrown"
+msgid "THROWN ATTACKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/tinkering skill"
+msgid "TINKERING SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/trading skill"
+msgid "TRADING SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/unarmed skill"
+msgid "UNARMED SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/wanted"
+msgid "WANTED STATUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/wgt"
+msgid "WEIGHT (WGT)"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/magic skill"
+msgid "MAGIC SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/casting skill"
+msgid "CASTING SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/appraisal skill"
+msgid "APPRAISAL SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents/swimming skill"
+msgid "SWIMMING SKILL"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical"
+msgid "[\"alchemy skill\", \"appraisal skill\", \"ac\", \"axe skill\", \"backstabs\", \"blocking skill\", \"blocking\", \"memorized\", \"casting skill\", \"chr\", \"class\", \"classes list\", \"con\", \"crits\", \"dex\", \"xp\", \"flanking\", \"hp\", \"int\", \"equipment degradation\", \"leadership skill\", \"legendary strikes\", \"leveling up\", \"mace skill\", \"mp\", \"pwr\", \"res\", \"magic skill\", \"melee\", \"missiles\", \"per\", \"polearm skill\", \"races\", \"ranged skill\", \"rgn\", \"skills\", \"sneaking\", \"spellbook casting\", \"stats metastats\", \"stealth skill\", \"strafing\", \"str\", \"swimming skill\", \"sword skill\", \"thrown\", \"tinkering skill\", \"trading skill\", \"unarmed skill\", \"wanted\", \"wgt\"]"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/appraisal skill"
+msgid "APPRAISAL SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/casting skill"
+msgid "CASTING SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/magic skill"
+msgid "MAGIC SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_codex.json:/contents_alphabetical/swimming skill"
+msgid "SWIMMING SKILL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    ARMOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/shields"
+msgid "SHIELDS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/leather armor"
+msgid "LEATHER ARMOR"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/quilted armor"
+msgid "QUILTED ARMOR"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/chain armor"
+msgid "CHAIN ARMOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/iron armor"
+msgid "IRON ARMOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/steel armor"
+msgid "STEEL ARMOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/crystal armor"
+msgid "CRYSTAL ARMOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/sphinxs casque"
+msgid "SPHINX'S CASQUE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/oracles treads"
+msgid "ORACLE'S TREADS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/djinnis brace"
+msgid "DJINNI'S BRACE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/dragons mail"
+msgid "DRAGON'S MAIL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/wraiths gown"
+msgid "WRAITH'S GOWN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    CLOTHING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/hats & hoods"
+msgid "HATS & HOODS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/crowns & headdresses"
+msgid "CROWNS & HEADDRESSES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/face accessories"
+msgid "FACE ACCESSORIES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/masks & visors"
+msgid "MASKS & VISORS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/cloaks & clothing"
+msgid "CLOAKS & CLOTHING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/backpacks"
+msgid "BACKPACKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    MELEE WEAPONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/swords"
+msgid "SWORDS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/greatswords"
+msgid "GREATSWORDS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/rapier"
+msgid "RAPIER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/axes"
+msgid "AXES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/maces"
+msgid "MACES"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/flails"
+msgid "FLAILS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/shillelagh"
+msgid "SHILLELAGH"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/polearms"
+msgid "POLEARMS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/dyrnwyn"
+msgid "DYRNWYN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/parashu"
+msgid "PARASHU"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/sharur"
+msgid "SHARUR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/gungnir"
+msgid "GUNGNIR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/fist weapons"
+msgid "FIST WEAPONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/whip"
+msgid "WHIP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    MISSILE WEAPONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/slingshot"
+msgid "SLINGSHOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/bows"
+msgid "BOWS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/crossbow"
+msgid "CROSSBOW"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/arbalest"
+msgid "ARBALEST"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/khryselakatos"
+msgid "KHRYSELAKATOS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/swift and springshot ammo"
+msgid "SWIFT & SPRINGSHOT AMMO"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/silver and piercing ammo"
+msgid "SILVER & PIERCING AMMO"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/fire and hunting ammo"
+msgid "FIRE & HUNTING AMMO"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/crystal ammo"
+msgid "CRYSTAL AMMO"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    THROWING WEAPONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/tomahawks & daggers"
+msgid "TOMAHAWKS & DAGGERS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/chakrams and shurikens"
+msgid "CHAKRAMS & SHURIKENS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/boomerang"
+msgid "BOOMERANG"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/bolas"
+msgid "BOLAS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/sludge balls"
+msgid "SLUDGE BALLS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    CRYSTALS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/rocks & gems"
+msgid "ROCKS & GEMS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/crystal shard"
+msgid "CRYSTAL SHARD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/mystic orb"
+msgid "MYSTIC ORB"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    FOOD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/cheese and apples"
+msgid "MORSELS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/cream pie"
+msgid "CREAM PIE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/tomalley"
+msgid "TOMALLEY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/meat, fish, and bread"
+msgid "MEALS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/rations"
+msgid "RATIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/tin and tin opener"
+msgid "TIN & TIN OPENER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/blood vials"
+msgid "BLOOD VIALS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    POTIONS & DRINKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/water"
+msgid "WATER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/empty bottle"
+msgid "EMPTY BOTTLE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/defensive potions"
+msgid "DEFENSIVE POTIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/offensive potions"
+msgid "OFFENSIVE POTIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/alembic"
+msgid "ALEMBIC"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    TOOLS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/torch and lantern"
+msgid "TORCHES & LANTERNS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/mirrors"
+msgid "MIRRORS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/towel"
+msgid "TOWEL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/mining pick"
+msgid "MINING PICK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/tinkering kit"
+msgid "TINKERING KIT"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/frypan"
+msgid "FRYPAN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/lockpick"
+msgid "LOCKPICK"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/keys"
+msgid "KEYS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/skeleton key"
+msgid "SKELETON KEY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    GADGETS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/beartrap"
+msgid "BEARTRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/noisemaker"
+msgid "NOISEMAKER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/dummybot"
+msgid "DUMMYBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/sentrybot and magic sentry"
+msgid "SENTRY BOT & SPELLBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/gyrobot"
+msgid "GYROBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/tinkered traps"
+msgid "TINKERED TRAPS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/teleportation trap"
+msgid "TELEPORTATION TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/-"
+msgid "    OTHER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/mail & lore books"
+msgid "MAIL & LORE BOOKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/death box"
+msgid "DEATH BOX"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/duck"
+msgid "DUCK"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical"
+msgid "[\"alembic\", \"arbalest\", \"axes\", \"backpacks\", \"beartrap\", \"blood vials\", \"bolas\", \"boomerang\", \"bows\", \"chain armor\", \"chakrams and shurikens\", \"cloaks & clothing\", \"cream pie\", \"crossbow\", \"crowns & headdresses\", \"crystal ammo\", \"crystal armor\", \"crystal shard\", \"darts and plumbata\", \"death box\", \"defensive potions\", \"djinnis brace\", \"dragons mail\", \"duck\", \"dummybot\", \"dyrnwyn\", \"empty bottle\", \"face accessories\", \"fire and hunting ammo\", \"fist weapons\", \"flails\", \"frypan\", \"greatswords\", \"gungnir\", \"gyrobot\", \"hats & hoods\", \"iron armor\", \"keys\", \"khryselakatos\", \"leather armor\", \"lockpick\", \"maces\", \"mail & lore books\", \"masks & visors\", \"meat, fish, and bread\", \"mining pick\", \"mirrors\", \"cheese and apples\", \"mystic orb\", \"noisemaker\", \"offensive potions\", \"oracles treads\", \"parashu\", \"polearms\", \"quilted armor\", \"rapier\", \"rations\", \"rocks & gems\", \"sentrybot and magic sentry\", \"sharur\", \"shields\", \"shillelagh\", \"silver and piercing ammo\", \"skeleton key\", \"slingshot\", \"sphinxs casque\", \"steel armor\", \"swift and springshot ammo\", \"swords\", \"teleportation trap\", \"tin and tin opener\", \"tinkered traps\", \"tinkering kit\", \"tomahawks & daggers\", \"tomalley\", \"torch and lantern\", \"towel\", \"water\", \"whip\", \"wraiths gown\"]"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/alembic"
+msgid "ALEMBIC"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/arbalest"
+msgid "ARBALEST"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/axes"
+msgid "AXES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/backpacks"
+msgid "BACKPACKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/beartrap"
+msgid "BEARTRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/blood vials"
+msgid "BLOOD VIALS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/bolas"
+msgid "BOLAS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/boomerang"
+msgid "BOOMERANG"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/bows"
+msgid "BOWS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/chain armor"
+msgid "CHAIN ARMOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/chakrams and shurikens"
+msgid "CHAKRAMS & SHURIKENS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/cloaks & clothing"
+msgid "CLOAKS & CLOTHING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/cream pie"
+msgid "CREAM PIE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/crossbow"
+msgid "CROSSBOW"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/crowns & headdresses"
+msgid "CROWNS & HEADDRESSES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/crystal ammo"
+msgid "CRYSTAL AMMO"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/crystal armor"
+msgid "CRYSTAL ARMOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/crystal shard"
+msgid "CRYSTAL SHARD"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/darts and plumbata"
+msgid "DARTS & PLUMBATA"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/death box"
+msgid "DEATH BOX"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/defensive potions"
+msgid "DEFENSIVE POTIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/djinnis brace"
+msgid "DJINNI'S BRACE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/dragons mail"
+msgid "DRAGON'S MAIL"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/duck"
+msgid "DUCK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/dummybot"
+msgid "DUMMYBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/dyrnwyn"
+msgid "DYRNWYN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/empty bottle"
+msgid "EMPTY BOTTLE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/face accessories"
+msgid "FACE ACCESSORIES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/fire and hunting ammo"
+msgid "FIRE & HUNTING AMMO"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/fist weapons"
+msgid "FIST WEAPONS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/flails"
+msgid "FLAILS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/frypan"
+msgid "FRYPAN"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/greatswords"
+msgid "GREATSWORDS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/gungnir"
+msgid "GUNGNIR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/gyrobot"
+msgid "GYROBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/hats & hoods"
+msgid "HATS & HOODS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/iron armor"
+msgid "IRON ARMOR"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/keys"
+msgid "KEYS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/khryselakatos"
+msgid "KHRYSELAKATOS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/leather armor"
+msgid "LEATHER ARMOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/lockpick"
+msgid "LOCKPICK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/maces"
+msgid "MACES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/mail & lore books"
+msgid "MAIL & LORE BOOKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/masks & visors"
+msgid "MASKS & VISORS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/meat, fish, and bread"
+msgid "MEALS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/mining pick"
+msgid "MINING PICK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/mirrors"
+msgid "MIRRORS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/cheese and apples"
+msgid "MORSELS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/mystic orb"
+msgid "MYSTIC ORB"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/noisemaker"
+msgid "NOISEMAKER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/offensive potions"
+msgid "OFFENSIVE POTIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/oracles treads"
+msgid "ORACLE'S TREADS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/parashu"
+msgid "PARASHU"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/polearms"
+msgid "POLEARMS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/quilted armor"
+msgid "QUILTED ARMOR"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/rapier"
+msgid "RAPIER"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/rations"
+msgid "RATIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/rocks & gems"
+msgid "ROCKS & GEMS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/sentrybot and magic sentry"
+msgid "SENTRY BOT & SPELLBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/sharur"
+msgid "SHARUR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/shields"
+msgid "SHIELDS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/shillelagh"
+msgid "SHILLELAGH"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/silver and piercing ammo"
+msgid "SILVER & PIERCING AMMO"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/skeleton key"
+msgid "SKELETON KEY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/slingshot"
+msgid "SLINGSHOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/sphinxs casque"
+msgid "SPHINX'S CASQUE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/steel armor"
+msgid "STEEL ARMOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/swift and springshot ammo"
+msgid "SWIFT & SPRINGSHOT AMMO"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/swords"
+msgid "SWORDS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/teleportation trap"
+msgid "TELEPORTATION TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/tin and tin opener"
+msgid "TIN & TIN OPENER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/tinkered traps"
+msgid "TINKERED TRAPS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/tinkering kit"
+msgid "TINKERING KIT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/tomahawks & daggers"
+msgid "TOMAHAWKS & DAGGERS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/tomalley"
+msgid "TOMALLEY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/torch and lantern"
+msgid "TORCHES & LANTERNS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/towel"
+msgid "TOWEL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/water"
+msgid "WATER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/whip"
+msgid "WHIP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/wraiths gown"
+msgid "WRAITH'S GOWN"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents/cloaks & clothing"
+msgid "CLOAKS & SHIRTS"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical"
+msgid "[\"alembic\", \"arbalest\", \"axes\", \"backpacks\", \"beartrap\", \"blood vials\", \"boomerang\", \"bows\", \"chakrams and shurikens\", \"cloaks & clothing\", \"cream pie\", \"crossbow\", \"crowns & headdresses\", \"crystal ammo\", \"crystal armor\", \"crystal shard\", \"death box\", \"defensive potions\", \"djinnis brace\", \"dragons mail\", \"dummybot\", \"dyrnwyn\", \"empty bottle\", \"face accessories\", \"fire and hunting ammo\", \"fist weapons\", \"gungnir\", \"gyrobot\", \"hats & hoods\", \"iron armor\", \"khryselakatos\", \"leather armor\", \"lockpick\", \"maces\", \"mail & lore books\", \"masks & visors\", \"meat, fish, and bread\", \"mining pick\", \"mirrors\", \"cheese and apples\", \"mystic orb\", \"noisemaker\", \"offensive potions\", \"oracles treads\", \"parashu\", \"polearms\", \"rocks & gems\", \"sentrybot and magic sentry\", \"sharur\", \"shields\", \"silver and piercing ammo\", \"skeleton key\", \"slingshot\", \"sphinxs casque\", \"steel armor\", \"swift and springshot ammo\", \"swords\", \"teleportation trap\", \"tin and tin opener\", \"tinkered traps\", \"tinkering kit\", \"tomahawks & daggers\", \"tomalley\", \"torch and lantern\", \"towel\", \"water\", \"whip\", \"wraiths gown\"]"
+msgstr ""
+
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_items.json:/contents_alphabetical/cloaks & clothing"
+msgid "CLOAKS & SHIRTS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/-"
+msgid "    MAGIC ITEMS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/magicstaffs"
+msgid "MAGICSTAFFS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/scepter"
+msgid "SCEPTER"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/source_foci"
+msgid "SOURCE FOCI"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/holy_symbols"
+msgid "HOLY SYMBOLS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/dark_icons"
+msgid "DARK ICONS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/instruments"
+msgid "MUSICAL INSTRUMENTS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/enchanted rings"
+msgid "ENCHANTED RINGS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/enchanted amulets"
+msgid "ENCHANTED AMULETS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/jewels"
+msgid "JEWELS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/-"
+msgid "    ARCANA"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/scrolls"
+msgid "SCROLLS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/enchanted feather"
+msgid "ENCHANTED FEATHER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/-"
+msgid "    SORCERY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/evocation"
+msgid "EVOCATION"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/contravention"
+msgid "CONTRAVENTION"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/kinesis"
+msgid "KINESIS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/temulturgy"
+msgid "TEMULTURGY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/-"
+msgid "    THAUMATURGY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/blessings"
+msgid "BLESSINGS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/divinations"
+msgid "DIVINATIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/miraculous feats"
+msgid "MIRACULOUS FEATS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/meditations"
+msgid "MEDITATIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/-"
+msgid "    MYSTICISM"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/sarkomancy"
+msgid "SARKOMANCY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/psianimus"
+msgid "PSIANIMUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/daimonia"
+msgid "DAIMONIA"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents/impeturia"
+msgid "IMPETURIA"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical"
+msgid "[\"scepter\", \"blessings\", \"contravention\", \"daimonia\", \"dark_icons\", \"divinations\", \"enchanted amulets\", \"enchanted feather\", \"enchanted rings\", \"evocation\", \"holy_symbols\", \"impeturia\", \"jewels\", \"kinesis\", \"magicstaffs\", \"meditations\", \"miraculous feats\", \"instruments\", \"psianimus\", \"sarkomancy\", \"scrolls\", \"source_foci\", \"temulturgy\"]"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/scepter"
+msgid "SCEPTER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/blessings"
+msgid "BLESSINGS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/contravention"
+msgid "CONTRAVENTION"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/daimonia"
+msgid "DAIMONIA"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/dark_icons"
+msgid "DARK ICONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/divinations"
+msgid "DIVINATIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/enchanted amulets"
+msgid "ENCHANTED AMULETS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/enchanted feather"
+msgid "ENCHANTED FEATHER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/enchanted rings"
+msgid "ENCHANTED RINGS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/evocation"
+msgid "EVOCATION"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/holy_symbols"
+msgid "HOLY SYMBOLS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/impeturia"
+msgid "IMPETURIA"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/jewels"
+msgid "JEWELS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/kinesis"
+msgid "KINESIS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/magicstaffs"
+msgid "MAGICSTAFFS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/meditations"
+msgid "MEDITATIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/miraculous feats"
+msgid "MIRACULOUS FEATS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/instruments"
+msgid "MUSICAL INSTRUMENTS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/psianimus"
+msgid "PSIANIMUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/sarkomancy"
+msgid "SARKOMANCY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/scrolls"
+msgid "SCROLLS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/source_foci"
+msgid "SOURCE FOCI"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical/temulturgy"
+msgid "TEMULTURGY"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_magic.json:/contents_alphabetical"
+msgid "[\"blessings\", \"contravention\", \"daimonia\", \"divinations\", \"enchanted amulets\", \"enchanted feather\", \"enchanted rings\", \"evocation\", \"impeturia\", \"kinesis\", \"magicstaffs\", \"meditations\", \"miraculous feats\", \"psianimus\", \"sarkomancy\", \"scrolls\", \"temulturgy\"]"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/-"
+msgid "    HUMANOIDS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/human"
+msgid "HUMANS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/goblin"
+msgid "GOBLIN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/potato king"
+msgid "THE POTATO KING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/gnome"
+msgid "GNOME"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/gnome thief"
+msgid "GNOME THIEF"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/shopkeeper"
+msgid "SHOPKEEPER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/mysterious shop"
+msgid "MYSTERIOUS MERCHANT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/-"
+msgid "    BEASTS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/rat"
+msgid "RAT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/algernon"
+msgid "ALGERNON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/bat"
+msgid "BAT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/spider"
+msgid "SPIDER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/crab"
+msgid "CRAB"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/shelob"
+msgid "SHELOB"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/bubbles"
+msgid "BUBBLES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/troll"
+msgid "TROLL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/thumpus"
+msgid "THUMPUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/scorpion"
+msgid "SCORPION"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/skrabblag"
+msgid "SKRABBLAG"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/scarab"
+msgid "SCARAB"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/xyggi"
+msgid "XYGGI"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/cockatrice"
+msgid "COCKATRICE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/minotaur"
+msgid "MINOTAUR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/-"
+msgid "    BEASTFOLK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/insectoid"
+msgid "INSECTOID"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/bugbear"
+msgid "BUGBEAR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/kobold"
+msgid "KOBOLD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/goatman"
+msgid "GOATMAN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/gharbad"
+msgid "GHARBAD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/-"
+msgid "    UNDEAD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/ghost"
+msgid "GHOST"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/skeleton"
+msgid "SKELETON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/funny bones"
+msgid "FUNNY BONES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/ghoul"
+msgid "GHOULS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/coral grimes"
+msgid "CORAL GRIMES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/enslaved ghoul"
+msgid "ENSLAVED GHOULS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/revenant_skull"
+msgid "REVENANT SKULL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/vampire"
+msgid "VAMPIRE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/bram kindly"
+msgid "BRAM KINDLY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/shadow"
+msgid "SHADOW"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/artemisia"
+msgid "ARTEMISIA"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/baratheon"
+msgid "BARATHEON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/lich"
+msgid "BARON HERX"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/lichice"
+msgid "ERUDYCE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/lichfire"
+msgid "ORPHEUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/-"
+msgid "    DEMONICS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/succubus"
+msgid "SUCCUBUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/lilith"
+msgid "LILITH"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/bram succubi"
+msgid "SUCCUBUS CONSORTS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/incubus"
+msgid "INCUBUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/imp"
+msgid "IMP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/demon"
+msgid "DEMON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/deudebreau"
+msgid "DEU DE'BREAU"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/devil"
+msgid "BAPHOMET"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/-"
+msgid "    CONSTRUCTS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/automaton"
+msgid "AUTOMATON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/crystalgolem"
+msgid "CRYSTAL GOLEM"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/sentrybot"
+msgid "SENTRYBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/spellbot"
+msgid "SPELLBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/dummybot"
+msgid "DUMMYBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/mimic"
+msgid "MIMIC"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/-"
+msgid "    ELEMENTALS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/slime"
+msgid "SLIMES"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents/earth_elemental"
+msgid "EARTH SPRITE"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical"
+msgid "[\"algernon\", \"artemisia\", \"automaton\", \"devil\", \"baratheon\", \"lich\", \"bat\", \"bram kindly\", \"bubbles\", \"bugbear\", \"cockatrice\", \"coral grimes\", \"crab\", \"crystalgolem\", \"demon\", \"deudebreau\", \"dummybot\", \"earth sprite\", \"enslaved ghoul\", \"lichice\", \"funny bones\", \"gharbad\", \"ghost\", \"ghoul\", \"gnome\", \"gnome thief\", \"goatman\", \"goblin\", \"human\", \"imp\", \"incubus\", \"insectoid\", \"kobold\", \"lilith\", \"mimic\", \"minotaur\", \"mysterious shop\", \"lichfire\", \"rat\", \"revenant_skull\", \"scarab\", \"scorpion\", \"sentrybot\", \"shadow\", \"shelob\", \"shopkeeper\", \"skeleton\", \"skrabblag\", \"slime\", \"spellbot\", \"spider\", \"bram succubi\", \"succubus\", \"potato king\", \"thumpus\", \"troll\", \"vampire\", \"xyggi\"]"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/algernon"
+msgid "ALGERNON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/artemisia"
+msgid "ARTEMISIA"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/automaton"
+msgid "AUTOMATON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/devil"
+msgid "BAPHOMET"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/baratheon"
+msgid "BARATHEON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/lich"
+msgid "BARON HERX"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/bat"
+msgid "BAT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/bram kindly"
+msgid "BRAM KINDLY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/bubbles"
+msgid "BUBBLES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/bugbear"
+msgid "BUGBEAR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/cockatrice"
+msgid "COCKATRICE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/coral grimes"
+msgid "CORAL GRIMES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/crab"
+msgid "CRAB"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/crystalgolem"
+msgid "CRYSTAL GOLEM"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/demon"
+msgid "DEMON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/deudebreau"
+msgid "DEU DE'BREAU"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/dummybot"
+msgid "DUMMYBOT"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/earth sprite"
+msgid "EARTH SPRITE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/enslaved ghoul"
+msgid "ENSLAVED GHOULS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/lichice"
+msgid "ERUDYCE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/funny bones"
+msgid "FUNNY BONES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/gharbad"
+msgid "GHARBAD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/ghost"
+msgid "GHOST"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/ghoul"
+msgid "GHOULS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/gnome"
+msgid "GNOME"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/gnome thief"
+msgid "GNOME THIEF"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/goatman"
+msgid "GOATMAN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/goblin"
+msgid "GOBLIN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/human"
+msgid "HUMANS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/imp"
+msgid "IMP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/incubus"
+msgid "INCUBUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/insectoid"
+msgid "INSECTOID"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/kobold"
+msgid "KOBOLD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/lilith"
+msgid "LILITH"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/mimic"
+msgid "MIMIC"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/minotaur"
+msgid "MINOTAUR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/mysterious shop"
+msgid "MYSTERIOUS MERCHANT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/lichfire"
+msgid "ORPHEUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/rat"
+msgid "RAT"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/revenant_skull"
+msgid "REVENANT SKULL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/scarab"
+msgid "SCARAB"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/scorpion"
+msgid "SCORPION"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/sentrybot"
+msgid "SENTRYBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/shadow"
+msgid "SHADOW"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/shelob"
+msgid "SHELOB"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/shopkeeper"
+msgid "SHOPKEEPER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/skeleton"
+msgid "SKELETON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/skrabblag"
+msgid "SKRABBLAG"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/slime"
+msgid "SLIMES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/spellbot"
+msgid "SPELLBOT"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/spider"
+msgid "SPIDER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/bram succubi"
+msgid "SUCCUBUS CONSORTS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/succubus"
+msgid "SUCCUBUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/potato king"
+msgid "THE POTATO KING"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/thumpus"
+msgid "THUMPUS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/troll"
+msgid "TROLL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/vampire"
+msgid "VAMPIRE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical/xyggi"
+msgid "XYGGI"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_monsters.json:/contents_alphabetical"
+msgid "[\"algernon\", \"artemisia\", \"automaton\", \"devil\", \"baratheon\", \"lich\", \"bat\", \"bram kindly\", \"bubbles\", \"bugbear\", \"cockatrice\", \"coral grimes\", \"crab\", \"crystalgolem\", \"demon\", \"deudebreau\", \"dummybot\", \"enslaved ghoul\", \"lichice\", \"funny bones\", \"gharbad\", \"ghost\", \"ghoul\", \"gnome\", \"gnome thief\", \"goatman\", \"goblin\", \"human\", \"imp\", \"incubus\", \"insectoid\", \"kobold\", \"lilith\", \"mimic\", \"minotaur\", \"mysterious shop\", \"lichfire\", \"rat\", \"scarab\", \"scorpion\", \"sentrybot\", \"shadow\", \"shelob\", \"shopkeeper\", \"skeleton\", \"skrabblag\", \"slime\", \"spellbot\", \"spider\", \"bram succubi\", \"succubus\", \"potato king\", \"thumpus\", \"troll\", \"vampire\", \"xyggi\"]"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/-"
+msgid "    FURNISHINGS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/portcullis"
+msgid "GATE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/lever"
+msgid "LEVER"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/button"
+msgid "BUTTON"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/wall locks"
+msgid "WALL LOCKS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/door"
+msgid "DOOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/murky water"
+msgid "MURKY WATER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/lava"
+msgid "LAVA"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/pits"
+msgid "PITS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/containers"
+msgid "CONTAINERS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/breakable barriers"
+msgid "BREAKABLE BARRIERS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/-"
+msgid "    LOCATIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/minehead"
+msgid "MINEHEAD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/hall of trials"
+msgid "HALL OF TRIALS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/herx lair"
+msgid "LICH'S BASTION"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/molten throne"
+msgid "THE MOLTEN THRONE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/hamlet"
+msgid "HAMLET"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/transition floor"
+msgid "TRANSITION FLOOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/citadel sanctum"
+msgid "CITADEL SANCTUM"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/-"
+msgid "    DUNGEONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/mines"
+msgid "MINES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/swamps"
+msgid "SWAMPS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/labyrinth"
+msgid "LABYRINTH"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/underworld"
+msgid "UNDERWORLD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/ruins"
+msgid "RUINS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/hell"
+msgid "HELL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/crystal caves"
+msgid "CRYSTAL CAVES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/arcane citadel"
+msgid "ARCANE CITADEL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/-"
+msgid "    STATIONS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/shop"
+msgid "SHOP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/sink"
+msgid "SINK"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/cauldron"
+msgid "CAULDRON"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/workbench"
+msgid "WORKBENCH"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/fountain"
+msgid "FOUNTAIN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/chest"
+msgid "CHEST"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/gravestone"
+msgid "GRAVESTONE"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/assist shrine"
+msgid "ASSIST SHRINE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/daedalus"
+msgid "DAEDALUS SHRINE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/obelisk"
+msgid "OBELISK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/bell"
+msgid "BELL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/-"
+msgid "    TRAPS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/boulder trap"
+msgid "BOULDER TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/arrow trap"
+msgid "ARROW TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/spike trap"
+msgid "SPIKE TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/magic trap"
+msgid "MAGIC TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/summoning trap"
+msgid "SUMMONING TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/brimstone boulder"
+msgid "BRIMSTONE BOULDER"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/arcane boulder"
+msgid "ARCANE BOULDER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/ceiling trap"
+msgid "CEILING TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/-"
+msgid "    SECRET PLACES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/gnomish mines"
+msgid "GNOMISH MINES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/minetown"
+msgid "MINETOWN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/temple"
+msgid "TEMPLE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/haunted castle"
+msgid "HAUNTED CASTLE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/sokoban"
+msgid "SOKOBAN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/minotaur maze"
+msgid "MINOTAUR MAZE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/mystic library"
+msgid "MYSTIC LIBRARY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/cockatrice lair"
+msgid "COCKATRICE LAIR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/brams castle"
+msgid "BRAM'S CASTLE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/-"
+msgid "    GUILD LORE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/merchants guild"
+msgid "MERCHANTS' GUILD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/magicians guild"
+msgid "MAGICIANS' GUILD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/hunters guild"
+msgid "HUNTERS' GUILD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/the church"
+msgid "THE CHURCH"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents/masons guild"
+msgid "MASONS' GUILD"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical"
+msgid "[\"arcane boulder\", \"arcane citadel\", \"arrow trap\", \"assist shrine\", \"bell\", \"boulder trap\", \"brams castle\", \"breakable barriers\", \"brimstone boulder\", \"button\", \"cauldron\", \"ceiling trap\", \"chest\", \"citadel sanctum\", \"cockatrice lair\", \"containers\", \"crystal caves\", \"daedalus\", \"door\", \"fountain\", \"portcullis\", \"gnomish mines\", \"gravestone\", \"hall of trials\", \"hamlet\", \"haunted castle\", \"hell\", \"hunters guild\", \"labyrinth\", \"lava\", \"lever\", \"herx lair\", \"magic trap\", \"magicians guild\", \"masons guild\", \"merchants guild\", \"minehead\", \"mines\", \"minetown\", \"minotaur maze\", \"murky water\", \"mystic library\", \"obelisk\", \"pits\", \"ruins\", \"shop\", \"sink\", \"sokoban\", \"spike trap\", \"summoning trap\", \"swamps\", \"temple\", \"the church\", \"molten throne\", \"transition floor\", \"underworld\", \"wall locks\", \"cauldron\"]"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/arcane boulder"
+msgid "ARCANE BOULDER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/arcane citadel"
+msgid "ARCANE CITADEL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/arrow trap"
+msgid "ARROW TRAP"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/assist shrine"
+msgid "ASSIST SHRINE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/bell"
+msgid "BELL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/boulder trap"
+msgid "BOULDER TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/brams castle"
+msgid "BRAM'S CASTLE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/breakable barriers"
+msgid "BREAKABLE BARRIERS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/brimstone boulder"
+msgid "BRIMSTONE BOULDER"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/button"
+msgid "BUTTON"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/cauldron"
+msgid "CAULDRON"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/ceiling trap"
+msgid "CEILING TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/chest"
+msgid "CHEST"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/citadel sanctum"
+msgid "CITADEL SANCTUM"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/cockatrice lair"
+msgid "COCKATRICE LAIR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/containers"
+msgid "CONTAINERS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/crystal caves"
+msgid "CRYSTAL CAVES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/daedalus"
+msgid "DAEDALUS SHRINE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/door"
+msgid "DOOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/fountain"
+msgid "FOUNTAIN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/portcullis"
+msgid "GATE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/gnomish mines"
+msgid "GNOMISH MINES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/gravestone"
+msgid "GRAVESTONE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/hall of trials"
+msgid "HALL OF TRIALS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/hamlet"
+msgid "HAMLET"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/haunted castle"
+msgid "HAUNTED CASTLE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/hell"
+msgid "HELL"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/hunters guild"
+msgid "HUNTERS' GUILD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/labyrinth"
+msgid "LABYRINTH"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/lava"
+msgid "LAVA"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/lever"
+msgid "LEVER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/herx lair"
+msgid "LICH'S BASTION"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/magic trap"
+msgid "MAGIC TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/magicians guild"
+msgid "MAGICIANS' GUILD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/masons guild"
+msgid "MASONS' GUILD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/merchants guild"
+msgid "MERCHANTS' GUILD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/minehead"
+msgid "MINEHEAD"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/mines"
+msgid "MINES"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/minetown"
+msgid "MINETOWN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/minotaur maze"
+msgid "MINOTAUR MAZE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/murky water"
+msgid "MURKY WATER"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/mystic library"
+msgid "MYSTIC LIBRARY"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/obelisk"
+msgid "OBELISK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/pits"
+msgid "PITS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/ruins"
+msgid "RUINS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/shop"
+msgid "SHOP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/sink"
+msgid "SINK"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/sokoban"
+msgid "SOKOBAN"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/spike trap"
+msgid "SPIKE TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/summoning trap"
+msgid "SUMMONING TRAP"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/swamps"
+msgid "SWAMPS"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/temple"
+msgid "TEMPLE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/the church"
+msgid "THE CHURCH"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/molten throne"
+msgid "THE MOLTEN THRONE"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/transition floor"
+msgid "TRANSITION FLOOR"
+msgstr ""
+
+#. Versiones: 4.3.2, 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/underworld"
+msgid "UNDERWORLD"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/wall locks"
+msgid "WALL LOCKS"
+msgstr ""
+
+#. Versiones: 5.0.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical/cauldron"
+msgid "WORKBENCH"
+msgstr ""
+
+#. Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.
+#. Versiones: 4.3.2
+msgctxt "lang/compendium_lang/contents_world.json:/contents_alphabetical"
+msgid "[\"arcane citadel\", \"arrow trap\", \"bell\", \"boulder trap\", \"brams castle\", \"breakable barriers\", \"brimstone boulder\", \"ceiling trap\", \"chest\", \"citadel sanctum\", \"cockatrice lair\", \"containers\", \"crystal caves\", \"daedalus\", \"door\", \"fountain\", \"portcullis\", \"gnomish mines\", \"gravestone\", \"hall of trials\", \"hamlet\", \"haunted castle\", \"hell\", \"hunters guild\", \"labyrinth\", \"lava\", \"lever\", \"herx lair\", \"magic trap\", \"magicians guild\", \"masons guild\", \"merchants guild\", \"minehead\", \"mines\", \"minetown\", \"minotaur maze\", \"murky water\", \"mystic library\", \"obelisk\", \"pits\", \"ruins\", \"shop\", \"sink\", \"sokoban\", \"spike trap\", \"summoning trap\", \"swamps\", \"temple\", \"the church\", \"molten throne\", \"transition floor\", \"underworld\"]"
 msgstr ""
 
 #. Versiones: 4.3.2, 5.0.2

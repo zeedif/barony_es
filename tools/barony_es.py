@@ -27,6 +27,7 @@ PRINTF = re.compile(r'%[-+0#]*\d*(?:\.\d+)?(?:ll|l|h)?[sdiuxXcf]')
 NOTES = {
     'lines': 'Cada línea es un renglón en el juego; puedes agregar o quitar líneas para que no se desborde.',
     'layout': 'Maquetación en JSON: ajústala si la traducción cambia la posición de palabras o líneas.',
+    'order': 'Orden de la lista: reacomoda los IDs para que las etiquetas traducidas queden en orden alfabético.',
 }
 
 
@@ -120,19 +121,21 @@ def matches(pattern, path):
 
 @dataclass(eq=False)
 class Rules:
-    """Dónde están los textos: archivos de idioma, libros y, por cada JSON, los punteros de sus nodos traducibles; las claves de los objetos nunca se traducen. `json` son cadenas sueltas. `lines` son arreglos de líneas que se traducen como un solo texto, para poder agregar o quitar líneas. `layout` son datos que siguen a la redacción, como qué palabras resalta un letrero, y se traducen como JSON. `restore` son archivos que la traducción conserva en las versiones del juego que ya no los traen, como un libro eliminado."""
+    """Dónde están los textos: archivos de idioma, libros y, por cada JSON, los punteros de sus nodos traducibles; las claves de los objetos no se traducen salvo en `labels`. `json` son cadenas sueltas. `lines` son arreglos de líneas que se traducen como un solo texto, para poder agregar o quitar líneas. `layout` son datos que siguen a la redacción, como qué palabras resalta un letrero, y se traducen como JSON. `labels` son objetos `{etiqueta: ID}` de una lista, como el índice del compendio, cuya etiqueta se traduce y se identifica por el ID. `order` son listas de esos objetos cuyo orden de IDs se traduce, para ordenar alfabéticamente las etiquetas traducidas. `restore` son archivos que la traducción conserva en las versiones del juego que ya no los traen, como un libro eliminado."""
 
     lang: list
     books: list
     json: dict
     lines: dict = field(default_factory=dict)
     layout: dict = field(default_factory=dict)
+    labels: dict = field(default_factory=dict)
+    order: dict = field(default_factory=dict)
     restore: list = field(default_factory=list)
 
     @cache
     def patterns(self, path):
         return {kind: [pointer for glob, pointers in getattr(self, kind).items() if matches(glob, path) for pointer in pointers]
-                for kind in ('lines', 'layout', 'json')}
+                for kind in ('lines', 'layout', 'labels', 'order', 'json')}
 
     def component(self, path):
         if any(matches(glob, path) for glob in self.lang):
@@ -143,14 +146,14 @@ class Rules:
             return 'textos'
 
     def kind(self, path, pointer):
-        """Cómo se traduce un nodo JSON (`lines`, `layout` o `json`), o None si no es texto."""
+        """Cómo se traduce un nodo JSON (`lines`, `layout`, `labels`, `order` o `json`), o None si no es texto."""
         return next((kind for kind, patterns in self.patterns(path).items() if any(matches(p, pointer) for p in patterns)), None)
 
 
 def lang_spans(text):
-    """Entradas `<id> <texto>#` de un archivo de idioma: el texto puede ocupar varias líneas y las líneas que empiezan con `#` entre entradas son comentarios."""
+    """Entradas `<id> <texto>#` de un archivo de idioma: el texto puede ocupar varias líneas, empezar en la línea siguiente al número, y las líneas que empiezan con `#` entre entradas son comentarios."""
     spans, index = [], 0
-    entry = re.compile(r'^(\d+) ', re.M)
+    entry = re.compile(r'^(\d+)[ \n]', re.M)
     while (match := entry.search(text, index)) and (end := text.find('#', match.end())) >= 0:
         spans.append((match[1], match.end(), end))
         index = end + 1
@@ -183,14 +186,30 @@ def encode(kind, node):
             return '\n'.join(node)
         case 'layout', dict() | list():
             return json.dumps(node, ensure_ascii=False, separators=(',', ':'))
+        case 'labels', dict() if len(node) == 1:
+            return next(iter(node))
+        case 'order', list() if all(isinstance(item, dict) and len(item) == 1 for item in node):
+            return json.dumps([ident for item in node for ident in item.values()], ensure_ascii=False)
+
+
+def reorder(items, order):
+    """Los objetos `{etiqueta: ID}` de `items` en el orden de IDs del JSON `order`; un ID repetido conserva el orden relativo de sus objetos."""
+    queues = {}
+    for item in items:
+        queues.setdefault(next(iter(item.values())), []).append(item)
+    idents = json.loads(order)
+    if sorted(idents) != sorted(ident for item in items for ident in item.values()):
+        raise ValueError(f'el orden debe tener los mismos IDs que la lista: {order!r}')
+    return [queues[ident].pop(0) for ident in idents]
 
 
 def json_texts(path, document, rules):
-    """(puntero, tipo, inglés, padre, clave) de cada nodo traducible de un JSON."""
+    """(puntero, contexto, tipo, inglés, padre, clave) de cada nodo traducible de un JSON. El contexto de una etiqueta lleva su ID en lugar de su posición, para que no cambie si la lista se reordena o el juego agrega entradas."""
     for pointer, node, parent, key in json_nodes(document):
         kind = rules.kind(path, pointer)
         if kind and (source := encode(kind, node)) is not None and (kind == 'layout' or worth(source)):
-            yield pointer, kind, source, parent, key
+            context = f'{pointer.rpartition("/")[0]}/{escape(next(iter(node.values())))}' if kind == 'labels' else pointer
+            yield pointer, f'{path}:{context}', kind, source, parent, key
 
 
 def is_book(path):
@@ -210,7 +229,7 @@ def untitled_books(files):
 
 
 def units(path, text, rules):
-    """(contexto, inglés) de cada texto traducible del archivo, en orden."""
+    """(contexto, inglés) de cada texto traducible del archivo, en orden y sin repetir."""
     match rules.component(path):
         case 'lang':
             return [(f'{path}:{number}', text[start:end]) for number, start, end in lang_spans(text) if worth(text[start:end])]
@@ -218,7 +237,7 @@ def units(path, text, rules):
             # Cada libro es un solo texto: la traducción mueve las líneas en blanco para que quepa en las páginas.
             return [(path, text)] if worth(text) else []
         case 'textos':
-            return [(f'{path}:{pointer}', source) for pointer, _, source, _, _ in json_texts(path, json.loads(text), rules)]
+            return [*dict.fromkeys((context, source) for _, context, _, source, _, _ in json_texts(path, json.loads(text), rules))]
     return []
 
 
@@ -232,9 +251,9 @@ def align(path, english, translated, rules):
         case 'libros':
             return {key: translated for key in units(path, english, rules)}
         case 'textos':
-            document, found = json.loads(english), {}
-            for pointer, kind, source, _, _ in json_texts(path, document, rules):
-                node, twin = document, json.loads(translated)
+            document, twins, found = json.loads(english), json.loads(translated), {}
+            for pointer, context, kind, source, _, _ in json_texts(path, document, rules):
+                node, twin = document, twins
                 for segment in pointer.split('/')[1:]:
                     segment = segment.replace('~1', '/').replace('~0', '~')
                     # Si un arreglo cambió de largo sus índices se desplazan y no hay forma fiable de emparejarlos.
@@ -246,8 +265,16 @@ def align(path, english, translated, rules):
                         case _:
                             break
                 else:
-                    if (target := encode(kind, twin)) is not None:
-                        found[f'{path}:{pointer}', source] = target
+                    target = encode(kind, twin)
+                    if target is None or kind == 'labels' and [*twin.values()] != [*node.values()]:
+                        continue
+                    if kind == 'order':
+                        # La lista traducida vuelve al orden del inglés para que sus etiquetas, que vienen después, se emparejen por posición.
+                        try:
+                            twin[:] = reorder(twin, source)
+                        except ValueError:
+                            continue
+                    found[context, source] = target
             return found
     return {}
 
@@ -268,16 +295,29 @@ def translate_file(path, text, rules, translate):
         case 'libros':
             return (translate(path, text) if worth(text) else None) or text
         case 'textos':
-            document = json.loads(text)
-            for pointer, kind, source, parent, key in [*json_texts(path, document, rules)]:
-                target = translate(f'{path}:{pointer}', source)
+            # Un JSON sin ninguna traducción se devuelve tal cual, para que el build no lo incluya solo por reformatearlo.
+            document, translated = json.loads(text), False
+            # De atrás hacia adelante, para que una lista se reordene después de traducir sus etiquetas.
+            for _, context, kind, source, parent, key in reversed([*json_texts(path, document, rules)]):
+                target = translate(context, source)
                 if target is not None:
                     try:
-                        parent[key] = json.loads(target) if kind == 'layout' else target.split('\n') if kind == 'lines' else target
+                        match kind:
+                            case 'lines':
+                                parent[key] = target.split('\n')
+                            case 'layout':
+                                parent[key] = json.loads(target)
+                            case 'labels':
+                                parent[key] = {target: next(iter(parent[key].values()))}
+                            case 'order':
+                                parent[key] = reorder(parent[key], target)
+                            case _:
+                                parent[key] = target
                     except ValueError as error:
-                        error.add_note(f'{path}:{pointer}: la maquetación no es JSON válido: {target!r}')
+                        error.add_note(f'{context}: la maquetación o el orden no es válido: {target!r}')
                         raise
-            return json.dumps(document, ensure_ascii=False, indent='\t') + '\n'
+                    translated = True
+            return json.dumps(document, ensure_ascii=False, indent='\t') + '\n' if translated else text
     return text
 
 
